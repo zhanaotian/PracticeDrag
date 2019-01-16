@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">PracticeDrag</string>
+  <string name="title_two_pager">TwoPager</string>
+  <string name="title_drag_listener_grid_view">DragListenerGridView</string>
+  <string name="title_drag_helper_grid_view">DragHelperGridView</string>
+  <string name="title_drag_to_collect_layout">DragToCollectLayout</string>
+  <string name="title_drag_up_collect_layout">DragUpCollectLayout</string>
+  <string name="title_nested_scroll_view">Nested_scroll_view</string>
+  <string name="title_nested_scalable_image_view">NestedScalableImageView</string>
+
+</resources>
